@@ -3,7 +3,7 @@
 <br>
 <p>This UiPath automation project demonstrates the use of variables within workflows. It was created as part of the "Automation Explorer (v2023.10)" course on the UiPath official platform.
 
-Key Concepts Covered:
+Key Concepts Covered:<br>
 Creating and initializing variables
 
 Assigning and manipulating values
